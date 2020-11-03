@@ -1,0 +1,110 @@
+.logo{text-align:right;
+     background-color:#AC3B61;
+    
+     overflow:auto;}
+
+.img{float:left;
+     margin:0;
+     padding-left:20px;
+     }
+
+.logo ul{list-style-type:none; padding:15px;}
+nav ul{list-style-type:none;}
+
+li{display:inline;}
+
+.logo a{text-decoration:none;
+        padding-right:40px;
+        color:#FFF;
+        padding:0px 20px;
+        font-size:20px;}
+
+.coffee{background-image:url("images/Coffee2.jpg");
+        text-align:center;
+        overflow:hidden;
+        background-size:cover;
+        background-repeat:no-repeat;
+        padding:300px;
+        font-size:80px;
+        color:#FFF;}
+
+nav{background-color:#333;
+    padding:3px;
+    margin-bottom:40px;
+    clear:left;
+    font-size:20px;}
+
+.sticky{position: -webkit-sticky;
+        position: sticky;
+        top:0;
+        z-index:1;}
+
+nav a{text-decoration:none;
+      color:#FFF;
+      padding-right:20px;}
+
+body{background-color:#f4f4f4;
+     padding:0;
+     margin:0;}
+
+.main{padding:0px 100px;
+      line-height:1.6em;
+      margin-bottom:30px;}
+
+.main p{font-size:20px;}
+
+.cap{background-image:url("images/Espr2.jpg");
+           height:550px;
+           background-attachment:fixed;
+           background-position:bottom;
+           background-repeat:no-repeat;
+           background-size:cover;
+           margin:0;
+           overflow:hidden;}
+
+.transparent{background-color:#FFF;
+       opacity:0.6;
+       margin-top:150px; margin-left:60px; margin-right:1000px; margin-bottom:120px;
+       padding:4px;
+       padding-left:15px;
+       padding-right:10px;
+       font-size:17px;}
+
+.es{background-image:url("images/Espresso.png");
+           height:600px;
+           background-attachment:fixed;
+           background-position:center;
+           background-repeat:no-repeat;
+           background-size:cover;
+           margin:0;
+           overflow:hidden;}
+
+.transparent2{background-color:#faf0e6;
+       opacity:0.8;
+       margin-top:125px; margin-left:1000px; margin-right:60px; margin-bottom:230px;
+       padding:4px;
+       padding-left:15px;
+       padding-right:10px;
+       font-size:17px;}
+
+.filler{background-color:#918F79;
+        color:#FFF;
+        text-align:center;
+        padding:30px 300px;
+        margin:0;
+        font-size:25px;}
+
+footer{background-color:#AC3B61;
+       color:#FFF;
+       text-align:center;
+       padding:40px 300px;
+       font-size:20px;}
+
+.Menu{background-color:#008080;
+      color:#FFF;
+      text-align:center;
+      padding:12px;
+      font-size:25px;}
+
+#special{font-size:21px;}
+
